@@ -1,0 +1,17 @@
+{
+    "name": "CartallosOnMatic",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Cartallos",
+        "/category/asset_value_tracking/token/symbol": "CART",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "36000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder"
+    }
+}
